@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, my name is Renan Siqueira, I am Brazilian, computer student and I intend to become an excellent professional I like to be always studying and updating myself, I like to put myself in situations where I am challenged
+Hello, my name is Renan Siqueira, I am Brazilian, student of computer science and I intend to become an excellent professional I like to be always studying and updating myself, I like to put myself in situations where I am challenged
  
 - I'm from São José dos Campos SP
 - Front-End engineer
