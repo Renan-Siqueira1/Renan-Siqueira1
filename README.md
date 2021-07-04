@@ -1,6 +1,19 @@
 ### Hi there 👋
+## I'm Renan Siqueira
+- I live in :brazil:, São José dos Campos SP :sunglasses:
+- I have been working on Freelance as Front-End :computer:
+- I have learned more about PHP and JS :exploding_head:
 
-Hello, my name is Renan Siqueira, I am Brazilian, student of computer science and I intend to become an excellent professional I like to be always studying and updating myself, I like to put myself in situations where I am challenged
+## Connect with me:
+<a href="https://www.linkedin.com/in/renan-siqueira-3a3b8a190/" target="_blank">
+<img align="center" alt="diego-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
+</a>
+<a href="https://www.instagram.com/renan_aa/" target="_blank">
+<img align="center" alt="diego-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;">
+</a>
+<a href="" target="_blank">
+<img align="center" alt="diego-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" style="max-width:100%;">
+</a>
  
 - I'm from São José dos Campos SP
 - Front-End engineer
