@@ -23,6 +23,6 @@
 <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="python" width="40" height="40" style="max-width:100%;"></img>
 
 ## Learning
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css" alt="PHP" width="40" height="40" style="max-width:100%;"></img>
 
 Contact email - renansiqueiradev@gmail.com
