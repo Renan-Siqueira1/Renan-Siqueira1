@@ -30,7 +30,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="React" width="50" height="50" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="50" height="50" style="max-width:100%;"></img>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Renan-Siqueira1&count_private=true&show_icons=true&theme=dark)
 )](https://github.com/anuraghazra/github-readme-stats)
