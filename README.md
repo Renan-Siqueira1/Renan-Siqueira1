@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## I'm Renan Siqueira
-- I live in :brazil: , São José dos Campos SP :sunglasses:
+- I live in 🇧🇷 , São José dos Campos SP :sunglasses:
 - I have been working on Freelance as Front-End :computer:
 - I have learned more about PHP and JS :exploding_head:
 
