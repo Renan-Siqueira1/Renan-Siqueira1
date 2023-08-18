@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm Renan Siqueira
 - I live in 🇧🇷 , São José dos Campos SP :sunglasses:
-- I have been working on Freelance as Front-End :computer:
+- I work allocated within vivo with java, kotlin, kubernetes :computer:
 - I have learned more about PHP and JS :exploding_head:
 
 ## Connect with me:
